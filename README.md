@@ -1,3 +1,12 @@
+# Youtube-Clone Application
+
+This Project is Frontend Focussed Application built with a Combination of React + Typescript + TailwindCSS
+
+### Netlify Deployed Link
+
+https://youtubeclonebyprawin.netlify.app/
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
