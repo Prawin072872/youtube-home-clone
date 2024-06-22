@@ -1,4 +1,4 @@
-# Youtube-HomePage-Clone Application
+# Youtube-HomePage-Clone
 
 This Project is a Frontend Focussed Application built with a Combination of React + Typescript + TailwindCSS
 
