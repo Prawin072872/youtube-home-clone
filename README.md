@@ -1,6 +1,6 @@
-# Youtube-Clone Application
+# Youtube-HomePage-Clone Application
 
-This Project is Frontend Focussed Application built with a Combination of React + Typescript + TailwindCSS
+This Project is a Frontend Focussed Application built with a Combination of React + Typescript + TailwindCSS
 
 ### Netlify Deployed Link
 
